@@ -10,3 +10,5 @@ Day 4 : https://docs.google.com/spreadsheets/d/1DrNkj8CXQdt0c1wrDx-_GY-QbFqmk4PD
 Day 5 : https://docs.google.com/spreadsheets/d/1cm3eHcVdDfwCe8LzPNEG1P6JpGCirheEVzDTvuJaQCc/edit?usp=sharing  <br />
 Day 6 : https://docs.google.com/spreadsheets/d/1eyY1ODF3OrgybsZZT2201H-DXLkVoabTXw3ui-zvr8A/edit?usp=sharing  <br />
 Day 7 : https://docs.google.com/spreadsheets/d/1fz0lEYQE2z-NDzNiQt9brlnP_hU9sj-HlHs4gtDJNuY/edit?usp=sharing  <br />
+Day 8 : https://docs.google.com/spreadsheets/d/1ol0NmMJT3wx94ceK2uPYVawnq4y8Z8HWT_DC6z0jKgY/edit?usp=sharing  <br />
+
